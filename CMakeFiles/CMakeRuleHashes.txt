@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+64b84894591259ccf501e9b4f382158e test/endian_str_test.cpp
+96c3da6e49f7bd92952019244bd6a1dd test/nbttest.cpp
+4f71230ded95f9842c2ed5f1da467dd3 test/read_test.cpp
+ebbf31cea15228027bd43202b2a32f0e test/write_test.cpp
+0e5fe8af3a0a182bddd780a04213126c test/zlibstream_test.cpp

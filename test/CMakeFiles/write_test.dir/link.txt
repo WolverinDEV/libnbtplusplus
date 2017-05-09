@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/write_test.dir/write_test.cpp.o  -o write_test ../libnbt++.a -lz 

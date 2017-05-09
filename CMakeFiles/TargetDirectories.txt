@@ -1,0 +1,13 @@
+/home/wolverindev/git/libnbtplusplus/CMakeFiles/rebuild_cache.dir
+/home/wolverindev/git/libnbtplusplus/CMakeFiles/test.dir
+/home/wolverindev/git/libnbtplusplus/CMakeFiles/edit_cache.dir
+/home/wolverindev/git/libnbtplusplus/CMakeFiles/nbt++.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/rebuild_cache.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/test.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/format_test.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/edit_cache.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/zlibstream_test.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/endian_str_test.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/read_test.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/nbttest.dir
+/home/wolverindev/git/libnbtplusplus/test/CMakeFiles/write_test.dir

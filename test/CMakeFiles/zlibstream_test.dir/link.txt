@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/zlibstream_test.dir/zlibstream_test.cpp.o  -o zlibstream_test ../libnbt++.a -lz 
