@@ -27,9 +27,6 @@ set(NBT_SOURCES
 
     src/text/json_formatter.cpp)
 
-# Find library headers
-file(GLOB NBT_HEADERS include/*.h)
-
 set(NBT_SOURCES_Z
     src/io/izlibstream.cpp
     src/io/ozlibstream.cpp)
@@ -65,5 +62,5 @@ endif()
 if(NBT_INSTALL)
 	# Install library
 	install(TARGETS nbt++ DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
-	install(FILES ${NBT_HEADERS} DESTINATION include/nbt++)
+	install(DIRECTORY include/ DESTINATION include/nbt++)
 endif()
