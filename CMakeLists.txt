@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.0)
-project(libnbt++
-    VERSION 2.4.1)
+project(libnbt++ VERSION 2.4.1)
 
 # supported configure options
 option(NBT_BUILD_SHARED "Build shared libraries" OFF)
 option(NBT_USE_ZLIB "Build additional zlib stream functionality" ON)
 option(NBT_BUILD_TESTS "Build the unit tests. Requires CxxTest." ON)
+option(NBT_INSTALL "Install NBT-Tag Libary" ON)
 
 # hide this from includers.
 set(BUILD_SHARED_LIBS ${NBT_BUILD_SHARED})
@@ -27,6 +27,9 @@ set(NBT_SOURCES
 
     src/text/json_formatter.cpp)
 
+# Find library headers
+file(GLOB NBT_HEADERS include/*.h)
+
 set(NBT_SOURCES_Z
     src/io/izlibstream.cpp
     src/io/ozlibstream.cpp)
@@ -44,6 +47,7 @@ if(NBT_USE_ZLIB)
     target_include_directories(nbt++ PUBLIC ${ZLIB_INCLUDE_DIRS})
     target_compile_definitions(nbt++ PUBLIC "-DNBT_HAVE_ZLIB")
 endif()
+
 target_compile_options(nbt++ PUBLIC -std=c++11)
 generate_export_header(nbt++ BASE_NAME nbt)
 
@@ -56,4 +60,10 @@ endif()
 if(NBT_BUILD_TESTS)
     enable_testing()
     add_subdirectory(test)
+endif()
+
+if(NBT_INSTALL)
+	# Install library
+	install(TARGETS nbt++ DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
+	install(FILES ${NBT_HEADERS} DESTINATION include/nbt++)
 endif()
