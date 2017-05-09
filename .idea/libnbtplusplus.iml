@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/endian_str_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/endian_str_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/nbttest.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/nbttest.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/read_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/read_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/write_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/write_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/zlibstream_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/zlibstream_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/endian_str_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/endian_str_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/nbttest.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/nbttest.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/read_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/read_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/write_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/write_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/zlibstream_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/zlibstream_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/endian_str_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/endian_str_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/nbttest.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/nbttest.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/read_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/read_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/write_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/write_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/zlibstream_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/zlibstream_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/endian_str_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/endian_str_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/nbttest.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/nbttest.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/read_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/read_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/write_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/write_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/zlibstream_test.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/zlibstream_test.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/endian_str.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/value.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tag_list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/text/json_formatter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/value_initializer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tag.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tag_string.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tag_compound.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tag_array.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/izlibstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/stream_reader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/stream_writer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/ozlibstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/nbt_export.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/crtp_tag.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/tag.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/endian_str.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/format_test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/endian_str_test.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/zlibstream_test.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/read_test.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/write_test.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/nbttest.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/6/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/6/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/6/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/6/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/nbttest.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/zlibstream_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/write_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/read_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Release/test/endian_str_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/nbttest.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/zlibstream_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/read_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/write_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/Debug/test/endian_str_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/zlibstream_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/nbttest.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/write_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/read_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/RelWithDebInfo/test/endian_str_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/nbttest.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/zlibstream_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/write_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/endian_str_test.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/libnbtplusplus-16774d7b/16774d7b/MinSizeRel/test/read_test.cpp" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
