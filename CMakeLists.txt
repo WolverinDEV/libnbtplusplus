@@ -36,6 +36,7 @@ if(NBT_USE_ZLIB)
     list(APPEND NBT_SOURCES ${NBT_SOURCES_Z})
 endif()
 
+add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
 add_library(nbt++ ${NBT_SOURCES})
 target_include_directories(nbt++ PUBLIC include ${CMAKE_CURRENT_BINARY_DIR})
 
