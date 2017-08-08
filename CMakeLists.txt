@@ -2,9 +2,9 @@ cmake_minimum_required(VERSION 3.0)
 project(libnbt++ VERSION 2.4.1)
 
 # supported configure options
-option(NBT_BUILD_SHARED "Build shared libraries" OFF)
+option(NBT_BUILD_SHARED "Build shared libraries" ON)
 option(NBT_USE_ZLIB "Build additional zlib stream functionality" ON)
-option(NBT_BUILD_TESTS "Build the unit tests. Requires CxxTest." ON)
+option(NBT_BUILD_TESTS "Build the unit tests. Requires CxxTest." OFF)
 option(NBT_INSTALL "Install NBT-Tag Libary" ON)
 
 # hide this from includers.
@@ -36,7 +36,6 @@ if(NBT_USE_ZLIB)
     list(APPEND NBT_SOURCES ${NBT_SOURCES_Z})
 endif()
 
-add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
 add_library(nbt++ ${NBT_SOURCES})
 target_include_directories(nbt++ PUBLIC include ${CMAKE_CURRENT_BINARY_DIR})
 
@@ -50,9 +49,9 @@ target_compile_options(nbt++ PUBLIC -std=c++11)
 generate_export_header(nbt++ BASE_NAME nbt)
 
 if(${BUILD_SHARED_LIBS})
-    set_target_properties(nbt++ PROPERTIES
-        CXX_VISIBILITY_PRESET hidden
-        VISIBILITY_INLINES_HIDDEN 1)
+#    set_target_properties(nbt++ PROPERTIES
+#        CXX_VISIBILITY_PRESET hidden
+#        VISIBILITY_INLINES_HIDDEN 1)
 endif()
 
 if(NBT_BUILD_TESTS)
